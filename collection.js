@@ -17,3 +17,5 @@ let myCollection = [
       whatILike: "Eat. Sleep. Code. Repeat :)"
     }
   ];
+
+ export default myCollection
